@@ -1,0 +1,104 @@
+Ventas x2
+Camara1: 192.168.10.1
+Camara2: 192.168.10.2
+
+Tesoreria x4
+Camara3: 192.168.10.3
+Camara4: 192.168.10.4
+Camara5: 192.168.10.5
+Camara6: 192.168.10.6
+
+Deposito x5
+Camara7: 192.168.10.7
+Camara8: 192.168.10.8
+Camara9: 192.168.10.9
+Camara10: 192.168.10.10
+Camara11: 192.168.10.11
+
+Diseño x2
+Camara12: 192.168.10.12
+Camara13: 192.168.10.13
+ 
+Gerencia x3
+Camara14: 192.168.10.14
+Camara15: 192.168.10.15
+Camara16: 192.168.10.16
+
+Logistica x3
+Camara17: 192.168.10.17
+Camara18: 192.168.10.18
+Camara19: 192.168.10.19
+
+Mantenimiento x2
+Camara20: 192.168.10.20
+Camara21: 192.168.10.21
+
+Recepcion x3
+Camara22: 192.168.10.22
+Camara23: 192.168.10.23
+Camara24: 192.168.10.24
+
+RRHH x3
+Camara25: 192.168.10.25
+Camara26: 192.168.10.26
+Camara27: 192.168.10.27
+
+Sala De Reuniones x3
+Camara28: 192.168.10.28
+Camara29: 192.168.10.29
+Camara30: 192.168.10.30
+
+Sistenas x3
+Camara31: 192.168.10.31
+Camara32: 192.168.10.32
+Camara33: 192.168.10.33
+
+Vigilancia x3
+Camara34: 192.168.10.34
+Camara35: 192.168.10.35
+Camara36: 192.168.10.36
+
+Otros lugares x43
+Camara37: 192.168.10.37
+Camara38: 192.168.10.38
+Camara39: 192.168.10.39
+Camara40: 192.168.10.40
+Camara41: 192.168.10.41
+Camara42: 192.168.10.42
+Camara43: 192.168.10.43
+Camara44: 192.168.10.44
+Camara45: 192.168.10.45
+Camara46: 192.168.10.46
+Camara47: 192.168.10.47
+Camara48: 192.168.10.48
+Camara49: 192.168.10.49
+Camara50: 192.168.10.50
+Camara51: 192.168.10.51
+Camara52: 192.168.10.52
+Camara53: 192.168.10.53
+Camara54: 192.168.10.54
+Camara55: 192.168.10.55
+Camara56: 192.168.10.56
+Camara57: 192.168.10.57
+Camara58: 192.168.10.58
+Camara59: 192.168.10.59
+Camara60: 192.168.10.60
+Camara61: 192.168.10.61
+Camara62: 192.168.10.62
+Camara63: 192.168.10.63
+Camara64: 192.168.10.64
+Camara65: 192.168.10.65
+Camara66: 192.168.10.67
+Camara67: 192.168.10.68
+Camara68: 192.168.10.69
+Camara69: 192.168.10.70
+Camara70: 192.168.10.71
+Camara71: 192.168.10.72
+Camara72: 192.168.10.73
+Camara73: 192.168.10.74
+Camara74: 192.168.10.75
+Camara75: 192.168.10.76
+Camara76: 192.168.10.77
+Camara77: 192.168.10.78
+Camara78: 192.168.10.79
+Camara79: 192.168.10.80
